@@ -1,8 +1,10 @@
-package com.inteligenciadigital.whatsapp;
+package com.inteligenciadigital.whatsapp.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.inteligenciadigital.whatsapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
