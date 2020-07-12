@@ -106,6 +106,7 @@
 		android:background="@color/colorPrimaryDark"
 		android:text="@string/cadastrar"
 		android:textColor="@android:color/white"
+		android:onClick="cadastrar"
 		app:layout_constraintBottom_toBottomOf="parent"
 		app:layout_constraintEnd_toEndOf="parent"
 		app:layout_constraintHorizontal_bias="0.5"
